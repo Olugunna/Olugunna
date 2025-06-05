@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <img src="https://github.com/Dprof-in-tech/Dprof-in-tech/assets/116242877/6a987770-ba0a-48d0-bfec-a47526b8c266" alt="Header image" style="width: 100%; height: auto;"/>
+    <img src="https://chatgpt.com/s/m_68419f2cc7848191bd8e9c4ca1040d47" alt="Header image" style="width: 100%; height: auto;"/>
   </div>
   <br/>
   <div align="start">
